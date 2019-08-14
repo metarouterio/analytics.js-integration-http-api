@@ -1,12 +1,10 @@
 {
-  "name": "@segment/analytics.js-integration-segmentio",
+  "name": "@metarouterio/analytics.js-integration-http-api",
   "description": "The Segmentio analytics.js integration.",
   "version": "4.2.1",
   "keywords": [
     "analytics.js",
     "analytics.js-integration",
-    "segment",
-    "segmentio"
   ],
   "main": "lib/index.js",
   "scripts": {
@@ -17,14 +15,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/segment-integrations/analytics.js-integration-segmentio.git"
+    "url": "git+https://github.com/metarouterio/analytics.js-integration-http-api.git"
   },
   "author": "Segment <friends@segment.com>",
   "license": "SEE LICENSE IN LICENSE",
-  "bugs": {
-    "url": "https://github.com/segment-integrations/analytics.js-integration-segmentio/issues"
-  },
-  "homepage": "https://github.com/segment-integrations/analytics.js-integration-segmentio#readme",
   "dependencies": {
     "@ndhoule/extend": "^2.0.0",
     "@ndhoule/keys": "^2.0.0",
